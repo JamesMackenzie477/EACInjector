@@ -1,0 +1,8 @@
+﻿  LoadLibraryInjection.cpp
+  Generating code
+  5 of 86 functions ( 5.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CRTInjection.vcxproj -> D:\Projects\Hacking\Mistaken\Files\EACInjector\x64\Release\Mistaken.exe
+  CRTInjection.vcxproj -> D:\Projects\Hacking\Mistaken\Files\EACInjector\x64\Release\Mistaken.pdb (Full PDB)
